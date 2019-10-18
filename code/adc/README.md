@@ -1,0 +1,1 @@
+grove_i2c_adc came from dexter as sample code and the time for script test uses this to drive the adc as fast as possible to measure the time taken per loop.
